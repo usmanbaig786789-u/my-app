@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/usmanbaig786789-u/my-app/static/css/main.f37ac214.css",
+    "main.js": "/usmanbaig786789-u/my-app/static/js/main.fd50442e.js",
+    "static/js/453.96453769.chunk.js": "/usmanbaig786789-u/my-app/static/js/453.96453769.chunk.js",
+    "index.html": "/usmanbaig786789-u/my-app/index.html",
+    "main.f37ac214.css.map": "/usmanbaig786789-u/my-app/static/css/main.f37ac214.css.map",
+    "main.fd50442e.js.map": "/usmanbaig786789-u/my-app/static/js/main.fd50442e.js.map",
+    "453.96453769.chunk.js.map": "/usmanbaig786789-u/my-app/static/js/453.96453769.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f37ac214.css",
+    "static/js/main.fd50442e.js"
+  ]
+}
